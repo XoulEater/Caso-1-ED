@@ -1,4 +1,5 @@
-// Caso 1
+// Caso 1 Estructuras de datos
+// Hecho por Jose Pablo Barquero Diaz
 
 using namespace std;
 
